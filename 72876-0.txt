@@ -935,7 +935,7 @@ falscher Lesung eines arabischen Worts beruhen.
 
 Eine nicht minder umfangreiche Zusammenstellung von über 1200
 arabischen Namen (inkl. Varianten), die für 740 Pflanzenspezies Geltung
-haben, hat der Sahara-Forscher F. FOURFAU in seinem „Essai de catalogue
+haben, hat der Sahara-Forscher F. FOUREAU in seinem „Essai de catalogue
 des noms arabes et berbères des quelques plantes, arbustes et arbres
 algériens et sahariens ou introduits et cultivés en Algérie“ (Paris
 1896) auf 48 Quartseiten gegeben. Alle Namen sind aber ausschließlich
@@ -20632,6 +20632,8 @@ Domain eingebracht.
 
 
 Die folgenden Druckfehler und sonstigen Fehler wurden korrigiert
+
+S. XXIII hat der Sahara-Forscher F. FOURFAU in: FOUREAU geändert.
 
 S. 3 „(Gummi)“ und „(Frucht)“ Namen für Acacia arabica und Acacia Seyal
 wurden wie anderswo zwischen den Spalten neu geordnet.
